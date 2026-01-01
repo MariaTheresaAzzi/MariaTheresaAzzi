@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Maria Theresa Azzi</h1>
-<h3 align="left">A passionate frontend developer from Lebanon</h3>
+<h3 align="left">A passionate developer</h3>
 
 - 🔭 Education **Bachelor degree in Computer Science**
 
