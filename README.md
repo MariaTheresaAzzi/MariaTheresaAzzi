@@ -1,9 +1,7 @@
 <h1 align="left">Hi 👋, I'm Maria Theresa Azzi</h1>
 <h3 align="left">A passionate developer</h3>
 
-- 🔭 Education **Bachelor degree in Computer Science**
-
-- 🌱 I’m currently learning **typescript**
+- 🔭 Education **M1 in Computer Science**
 
 - 📫 How to reach me **mariatheresaelkazzi@gmail.com**
 
